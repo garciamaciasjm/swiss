@@ -55,7 +55,7 @@ variable "vm_os_version" {
 
 variable "vm_size" {
   description = "size of virtual machine"
-  default     = "Standard_B2s"
+  default     = "Standard_B1s"
   type        = string
 }
 
